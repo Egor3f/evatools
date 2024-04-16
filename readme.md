@@ -3,7 +3,7 @@
 ## Install
 
 ```shell
-go get pkg.efprojects.com/evatools
+go get efprojects.com/evatools
 ```
 
 ---
