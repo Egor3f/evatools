@@ -1,4 +1,4 @@
-package evatools
+package stringutil
 
 import (
 	"fmt"
